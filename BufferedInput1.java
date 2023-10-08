@@ -1,5 +1,5 @@
 import java.io.*;
-
+//
 class BufferedInput1
 {
     public static void main(String A[]) throws IOException
