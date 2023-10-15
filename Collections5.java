@@ -1,5 +1,6 @@
 import java.util.*;
 
+
 class Collections5
 {
     public static void main(String arg[])
