@@ -7,7 +7,7 @@ class Array
     public:
         T *Arr;
         int Size;
-
+ 
         Array(int length)
         {
             Size = length;
