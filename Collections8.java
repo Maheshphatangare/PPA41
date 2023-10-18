@@ -2,7 +2,7 @@ import java.util.*;
 
 class Collections8
 {
-    public static void main(String arg[])
+     public static void main(String arg[])
     {
       Hashtable <String, Integer>hobj = new Hashtable<String, Integer>();
 
