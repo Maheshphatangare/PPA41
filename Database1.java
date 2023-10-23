@@ -1,7 +1,7 @@
 import java.sql.*;          // 1
  
 class Database1
-{
+{ 
     public static void main(String arg[]) throws Exception
     {
         Connection cobj = DriverManager.getConnection("jdbc:mysql://localhost:3306/ppa41","root","root");   // 2
