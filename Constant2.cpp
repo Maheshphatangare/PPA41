@@ -10,7 +10,7 @@ class Demo
         const int l;
         // Default constructor
         Demo() : k(11), l(21)
-        {
+        { 
             i = 51;
             j = 101;
         }
