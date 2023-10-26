@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<fcntl.h>
-
+   
 int main()
 {
     char Fname[20];
