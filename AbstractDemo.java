@@ -11,7 +11,7 @@ abstract class Arithematic
 }
 
 class Marvellous extends Arithematic
-{
+{ 
      public int Substraction(int No1, int No2)
      {
           return No1 - No2;
