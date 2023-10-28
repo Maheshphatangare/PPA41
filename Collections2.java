@@ -6,7 +6,7 @@ class Collections2
     {
         LinkedList <String>lobj = new LinkedList<String>();
 
-        lobj.add("Kapil");
+          lobj.add("Kapil");
         lobj.add("Aditya");
         lobj.add("Rohan");
         lobj.add("Rutik");
