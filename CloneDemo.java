@@ -6,7 +6,7 @@ class Employee implements Cloneable
     public int Salary;
 
     public Employee(int No, String str, int Value)
-    {
+    { 
         this.Eid = No;
         this.Name = str;
         this.Salary = Value;
