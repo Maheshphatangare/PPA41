@@ -4,7 +4,7 @@ import java.io.*;
 public class Client3
 {
     public static void main(String A[]) throws Exception
-    {
+    { 
         System.out.println("Client application is running...");
 
         Socket s = new Socket("localhost",2100);
