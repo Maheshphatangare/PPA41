@@ -9,7 +9,7 @@ class Demo
         Size = No;
         Arr = new int[Size];
     }
-
+ 
     protected void finalize()
     {
         System.out.println("Inside finalize method");
