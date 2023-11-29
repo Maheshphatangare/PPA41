@@ -1,5 +1,5 @@
 package Marvellous;
-
+ 
 public class Arithematic
 {
      public int Value1;
