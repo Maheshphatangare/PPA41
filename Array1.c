@@ -3,7 +3,7 @@
 int main()
 {
     // All the belwo memory allocations are static memory allocations
-
+ 
     // First way to intialise the array
     int Arr[4] = {10,20,30,40};     // Member initialisation list
 
