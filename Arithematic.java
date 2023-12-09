@@ -1,7 +1,7 @@
 package Marvellous;
  
 public class Arithematic
-{
+{ 
      public int Value1;
      public int Value2;
 
