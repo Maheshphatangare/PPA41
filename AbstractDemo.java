@@ -2,7 +2,7 @@
 // Abstract class achives 0 to 100% acstraction
 
 abstract class Arithematic
-{
+{ 
      public int Addition(int No1, int No2)
      {
           return No1 + No2;
