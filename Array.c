@@ -1,4 +1,4 @@
-#include<stdio.h>
+ #include<stdio.h>
 
 // Definations of global variables
 // Scope : Throughout the program
